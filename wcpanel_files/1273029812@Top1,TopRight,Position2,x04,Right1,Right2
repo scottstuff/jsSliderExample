@@ -1,0 +1,60 @@
+function OAS_RICH(position) {
+if (position == 'Position2') {
+document.write ('<script type="text/javascript"><!--\n');
+document.write ('google_ad_client = "ca-pub-8934288970524856";\n');
+document.write ('/* FliperamaBlog_728x90_BR */\n');
+document.write ('google_ad_slot = "9721017415";\n');
+document.write ('google_ad_width = 728;\n');
+document.write ('google_ad_height = 90;\n');
+document.write ('//-->\n');
+document.write ('</script>\n');
+document.write ('<script type="text/javascript"\n');
+document.write ('src="http://pagead2.googlesyndication.com/pagead/show_ads.js">\n');
+document.write ('</script>');
+}
+if (position == 'Right1') {
+document.write ('<A HREF="http://oas.populisengage.com/5c/www.cidadeinternet.com.br/fliperamablog/homepage/91224392/Right1/default/empty.gif/5279746a4d6c57704444304144746238?x" target="_top"><IMG SRC="http://imageceu1.247realmedia.com/0/default/empty.gif"  WIDTH=1 HEIGHT=1 ALT="" BORDER=0 BORDER="0"></A>');
+}
+if (position == 'Right2') {
+document.write ('<A HREF="http://oas.populisengage.com/5c/www.cidadeinternet.com.br/fliperamablog/homepage/357692032/Right2/default/empty.gif/5279746a4d6c57704444304144746238?x" target="_top"><IMG SRC="http://imageceu1.247realmedia.com/0/default/empty.gif"  WIDTH=1 HEIGHT=1 ALT="" BORDER=0 BORDER="0"></A>');
+}
+if (position == 'Top1') {
+document.write ('<A HREF="http://oas.populisengage.com/5c/www.cidadeinternet.com.br/fliperamablog/homepage/188377754/Top1/default/empty.gif/5279746a4d6c57704444304144746238?x" target="_top"><IMG SRC="http://imageceu1.247realmedia.com/0/default/empty.gif"  WIDTH=1 HEIGHT=1 ALT="" BORDER=0 BORDER="0"></A>');
+}
+if (position == 'TopRight') {
+document.write ('<!--  Begin Rubicon Project Tag -->\n');
+document.write ('<!--  Site: Tech   Zone: 0000199#2119#-FliperamaBlog   Size: Medium Rectangle  -->\n');
+document.write ('<script language="JavaScript" type="text/javascript">\n');
+document.write ('rp_account   = ');
+document.write ("'");
+document.write ('11924');
+document.write ("'");
+document.write (';\n');
+document.write ('rp_site      = ');
+document.write ("'");
+document.write ('42204');
+document.write ("'");
+document.write (';\n');
+document.write ('rp_zonesize  = ');
+document.write ("'");
+document.write ('180522-15');
+document.write ("'");
+document.write (';\n');
+document.write ('rp_adtype    = ');
+document.write ("'");
+document.write ('js');
+document.write ("'");
+document.write (';\n');
+document.write ('rp_smartfile = ');
+document.write ("'");
+document.write ('[SMART FILE URL]');
+document.write ("'");
+document.write (';\n');
+document.write ('</script>\n');
+document.write ('<script type="text/javascript" src="http://ads.rubiconproject.com/ad/11924.js"></script>\n');
+document.write ('<!--  End Rubicon Project Tag -->');
+}
+if (position == 'x04') {
+document.write ('<SCRIPT SRC="http://cdn.stickyadstv.com/prime-time/intext-roll.min.js?zone=46626&auto=true" TYPE="text/javascript"></SCRIPT>\n');
+}
+}

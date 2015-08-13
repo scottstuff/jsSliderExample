@@ -1,0 +1,3 @@
+window._paq = window._paq || [];
+function advPromo() { var element = document.getElementById('advpromo');element.innerHTML = '';element.style.display = 'block'; }
+advPromo();error();
